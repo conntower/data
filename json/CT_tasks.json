@@ -2,17 +2,17 @@
     "items": [
         {
             "id": "1",
-            "title": "練習航海",
+            "title": "Demo 1",
             "time": "00:15:00",
-            "description": "鎮守府近海を航海し、艦隊の練度を高めよう！",
-            "tag": "鎮守府海域"
+            "description": "This is a demo task.",
+            "tag": "Demo"
         },
         {
             "id": "2",
-            "title": "長距離練習航海",
+            "title": "Demo 2",
             "time": "00:30:00",
-            "description": "外海まで足を延ばし、艦隊の練度を高めよう！",
-            "tag": "鎮守府海域"
+            "description": "This is a demo task.",
+            "tag": "Demo"
         }
     ]
 }
